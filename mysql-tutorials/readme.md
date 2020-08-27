@@ -1,14 +1,11 @@
 # MySQL
 
-
 > MySQL all in one
-
 
 ## MySQL Tutorials
 
-
 ```sh
-
+# help
 mysql> ?
 
 For information about MySQL products and services, visit:
@@ -75,5 +72,4 @@ mysql>
 https://dev.mysql.com/doc/workbench/en/wb-mysql-connections-methods-ssh.html
 
 https://hostpresto.com/community/tutorials/how-to-connect-to-a-remote-mysql-server-via-an-ssh-tunnel/
-
 

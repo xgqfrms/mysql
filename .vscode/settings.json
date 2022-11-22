@@ -74,5 +74,6 @@
     "html.format.extraLiners": "",
     "html.format.enable": false,
     "html.format.contentUnformatted": "body, div, section, script, pre,code,textarea",
+    "liveServer.settings.port": 5502,
 
 }

@@ -4,6 +4,11 @@
 
 [mysql-tutorials](./mysql-tutorials/mysql-commands.md)
 
+```sh
+$ mysql -uroot -p
+
+```
+
 
 ## learning tutorials
 
